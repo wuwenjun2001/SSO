@@ -1,0 +1,17 @@
+D:\workspace\SSOServer\src\main\java\demo\sso\server\service\DemoAuthenticationHandler.java
+D:\workspace\SSOServer\src\main\java\demo\sso\server\service\CaptchaAuthenticationHandler.java
+D:\workspace\SSOServer\src\main\java\demo\sso\server\controller\ConfigManageController.java
+D:\workspace\SSOServer\src\main\java\demo\sso\server\TokenManager.java
+D:\workspace\SSOServer\src\main\java\demo\sso\server\service\IAuthenticationHandler.java
+D:\workspace\SSOServer\src\main\java\demo\sso\server\service\IPreLoginHandler.java
+D:\workspace\SSOServer\src\main\java\demo\sso\server\service\CaptchaPreLoginHandler.java
+D:\workspace\SSOServer\src\main\java\demo\sso\server\model\Credential.java
+D:\workspace\SSOServer\src\main\java\demo\sso\server\model\LoginUser.java
+D:\workspace\SSOServer\src\main\java\demo\sso\server\Config.java
+D:\workspace\SSOServer\src\main\java\demo\sso\server\SecureModeInterceptor.java
+D:\workspace\SSOServer\src\main\java\demo\sso\server\model\ClientSystem.java
+D:\workspace\SSOServer\src\main\java\demo\sso\server\web\SystemInitListener.java
+D:\workspace\SSOServer\src\main\java\demo\sso\server\persistence\UserPersistenceObject.java
+D:\workspace\SSOServer\src\main\java\demo\sso\server\model\DemoLoginUser.java
+D:\workspace\SSOServer\src\main\java\demo\sso\server\controller\LoginController.java
+D:\workspace\SSOServer\src\main\java\demo\sso\server\SpringContextUtil.java
